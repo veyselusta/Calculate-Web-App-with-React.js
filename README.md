@@ -1,2 +1,5 @@
-# Calculate-Web-App-with-React.js
-Created with CodeSandbox
+# Install
+```npm install```
+
+#Usage
+```npm start```
