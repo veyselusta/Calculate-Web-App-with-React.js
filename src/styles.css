@@ -8,7 +8,7 @@
   font-family: sans-serif;
   text-align: center;
   padding-top: 100px;
-  background: #392767;
+  background: #056676;
   min-height: 100vh;
   color: #e5daff;
 }
@@ -28,7 +28,7 @@ input {
   width: 25%;
   padding: 10px;
   text-align: center;
-  background: #d2c0fd;
+  background: #e8ded2;
   color: #2a1263;
 }
 
@@ -40,7 +40,7 @@ button {
   padding: 30px 40px;
   font-size: 30px;
   border-radius: 20px 40px;
-  background: #5f30e6;
+  background: #40a8c4;
   border: none;
   margin-bottom: 50px;
   color: #d7cbf7;
